@@ -1,0 +1,7 @@
+{
+  "project_id": "your-gcp-project-id",
+  "gcs_bucket": "your-gcs-bucket-name",
+  "pubsub_topic": "your-pubsub-topic-name",
+  "bigquery_dataset": "your_bigquery_dataset",
+  "bigquery_table": "processed_records"
+}

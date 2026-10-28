@@ -1,0 +1,9 @@
+record_id,customer,amount,event_date,region
+1001,Asha,1250.50,2026-01-05,South
+1002,Rahul,799.00,2026-01-06,West
+1003,Meena,2400.00,2026-01-06,South
+1004,Arjun,350.75,2026-01-07,East
+1005,Asha,1250.50,2026-01-05,South
+1006,  Kavya  ,180.00,2026-01-08,North
+1007,,99.00,2026-01-09,West
+1008,Imran,not-a-number,2026-01-10,South
